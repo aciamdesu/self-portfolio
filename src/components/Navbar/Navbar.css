@@ -6,7 +6,7 @@
 }
 
 .nav__ul {
-    padding-top: 30px;
+    padding: 2rem;
     display: flex;
     flex-direction: row;
     justify-content: right;
@@ -14,10 +14,11 @@
 
 .nav__li {
     list-style-type: none;
+    margin-right: 2rem;
 }
 
 .btn {
-    padding: 43px;
+    /* padding: 43px; */
     color: var(--bunker);
     font-size: small;
     text-decoration: none;
