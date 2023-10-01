@@ -1,0 +1,28 @@
+.nav__sticky {
+    width: 100%;
+    top: 0;
+    background-color: var(--clr-china-ivory);
+    position: sticky;
+}
+
+.nav__ul {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.nav__li {
+    list-style-type: none;
+}
+
+.btn {
+    padding: 43px;
+    color: var(--bunker);
+    font-size: small;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: var(--clr-smalt-blue);
+}

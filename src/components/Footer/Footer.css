@@ -1,0 +1,21 @@
+.btn__section {
+    width: 55px;
+    padding-top: 270px;
+
+}
+
+.social__btn {
+    padding-left: 30px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.a__btn {
+    padding: 15px;
+}
+
+.a__btn:hover {
+    color: var(--clr-smalt-blue)
+}

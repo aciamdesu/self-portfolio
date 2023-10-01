@@ -1,3 +1,8 @@
+* {
+  font-family: 'Press Start 2P', cursive;
+  background-color: var(--clr-china-ivory);
+}
+
 :root {
   /* pallete */
   --clr-china-ivory: #FCFFE7;
