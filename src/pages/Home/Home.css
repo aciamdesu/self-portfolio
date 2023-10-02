@@ -1,0 +1,36 @@
+.home__content-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home__header-wrapper {
+    text-align: center;
+}
+
+.home__header-lower {
+    padding-top: 1em;
+}
+
+.home__header-color {
+    color: var(--clr-smalt-blue);
+}
+
+.home__button-wrapper {
+    padding-top: 5em;
+    text-align: center;
+}
+
+.home__resume-btn {
+    background-color: var(--clr-smalt-blue);
+    color: var(--clr-china-ivory);
+    border: 1em solid var(--clr-smalt-blue);
+    border-radius: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
+

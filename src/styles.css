@@ -10,3 +10,9 @@
   --clr-smalt-blue: #4F8A8B;
   --clr-very-soft-cyan: #BAD7E9;
 }
+
+.page-wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
